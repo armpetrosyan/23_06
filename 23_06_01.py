@@ -24,4 +24,4 @@ ls2 = [1, 2, 3, 4]
 
 x = merge(sorting(ls1), sorting(ls2))
 
-print(sorting(x))
+print(x)
